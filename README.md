@@ -54,8 +54,8 @@
  - 💻 Some of My Best Works 
  </br>
  
-[![Metro Ticketing Application](https://github-readme-stats.vercel.app/api/pin/?username=padalakiran&repo=Metro_Ticketing&theme=blue-green)](https://github.com/padalakiran/Metro_Ticketing)
-[![Bank Management System For Admin](https://github-readme-stats.vercel.app/api/pin/?username=padalakiran&repo=Bank_Management_System_For_Admin&theme=blue-green)](https://github.com/padalakiran/Bank_Management_System_For_Admin)
+[![Metro Ticketing Application](https://github-readme-stats.vercel.app/api/pin/?username=Akhilesh970&repo=Metro_Ticketing&theme=blue-green)](https://github.com/padalakiran/Metro_Ticketing)
+[![Bank Management System For Admin](https://github-readme-stats.vercel.app/api/pin/?username=Akhilesh970&repo=Banking-System-Management&theme=blue-green)](https://github.com/Akhilesh970/Banking-System-Management)
 
 
 </br>
@@ -75,11 +75,11 @@
 
 - 📫 How to reach me 
 
-  [𝒫𝑜𝓇𝓉𝒻𝑜𝓁𝒾𝑜](https://padalakiran.wixsite.com/kiran-portfolio)
+  /*[𝒫𝑜𝓇𝓉𝒻𝑜𝓁𝒾𝑜](https://padalakiran.wixsite.com/kiran-portfolio)*/
 
   [<img align="left" width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png">](https://www.linkedin.com/in/akhileshailam-72b0621b7/)
   [<img align="left" width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2044px-WhatsApp.svg.png">](https://wa.me/916301934405)
-  [<img align="left" width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png">](https://www.instagram.com/padala_kiran_kumar/)
+  [<img align="left" width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png">](https://www.instagram.com/just___call___akhil/)
  <br/>
  
 
